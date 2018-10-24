@@ -1,0 +1,29 @@
+_repo: De-martelaars-der-wetenschap_58054
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Camille Gilbert (1838-)
+    gutenberg_agent_id: '49746'
+    url: http://www.gutenberg.org/2009/agents/49746
+  translator:
+    agent_name: Jeronimo de Vries (1838-1915)
+    gutenberg_agent_id: '49747'
+    url: http://www.gutenberg.org/2009/agents/49747
+creator:
+  author:
+    agent_name: Gaston Tissandier (1843-1899)
+    gutenberg_agent_id: '49745'
+    url: http://www.gutenberg.org/2009/agents/49745
+description: ''
+gutenberg_issued: '2018-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58054'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: De martelaars der wetenschap
+url: http://www.gutenberg.org/ebooks/58054
