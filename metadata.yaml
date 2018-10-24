@@ -1,5 +1,5 @@
 _repo: De-martelaars-der-wetenschap_58054
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Camille Gilbert (1838-)
@@ -9,12 +9,17 @@ contributor:
     agent_name: Jeronimo de Vries (1838-1915)
     gutenberg_agent_id: '49747'
     url: http://www.gutenberg.org/2009/agents/49747
+covers:
+- cover_type: archival
+  image_path: 58054-h/images/backcover.jpg
 creator:
   author:
     agent_name: Gaston Tissandier (1843-1899)
     gutenberg_agent_id: '49745'
     url: http://www.gutenberg.org/2009/agents/49745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58054#De-martelaars-der-wetenschap
 gutenberg_issued: '2018-10-07'
 gutenberg_type: Text
 identifiers:
